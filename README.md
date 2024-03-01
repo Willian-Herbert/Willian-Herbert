@@ -7,10 +7,10 @@
 </div>
 
 <div>
-  <h2>Um pouco sobre mim</h2>
+  <h2>Um pouco sobre mim 🎵🎮🚗</h2>
   <p>
     Meu gosto por programação e desenvolvimento de software veio através do meu gosto por tecnologia, gosto de games desde pequeno e o contato com o computador me fez escolher esse caminho.
-    Além de games🎮, gosto do mundo automotivo🏎️ e da música🎵, curto ouvir gêneros como Rap e Rock (vou deixar minhas playlists caso curta os gêneros). <br>
+    Além de games, gosto do mundo automotivo e da música, curto ouvir gêneros como Rap e Rock (vou deixar minhas playlists caso curta os gêneros). <br>
     Pessoalmente me chamo Willian mas no virtual meu Nickname é Legenda.
   </p>
     <div>
