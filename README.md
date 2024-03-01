@@ -2,6 +2,6 @@
 
 <div style="width: 180px;">
 <a href="https://github.com/Willian-Herbert">
-  <img src="https://github-readme-stats.vercel.app/api?username=Willian-Herbert&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Willian-Herbert&show_icons=true&theme=radical" />
 </a>
 </div>
