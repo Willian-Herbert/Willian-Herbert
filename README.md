@@ -11,7 +11,7 @@
   <p>
     Meu gosto por programação e desenvolvimento de software veio através do meu gosto por tecnologia, gosto de games desde pequeno e o contato com o computador me fez escolher esse caminho.
     Além de games, gosto do mundo automotivo e da música, curto ouvir gêneros como Rap e Rock (vou deixar minhas playlists caso curta os gêneros). <br>
-    Pessoalmente me chamo Willian mas no virtual meu Nickname é Legenda.
+    Pessoalmente me chamo Willian mas no virtual sou conhecido mais como Legenda.
   </p>
     <div>
       <strong>Rap: </strong><a href="https://open.spotify.com/playlist/36GfxHnwtf9LKEprzw1Fzb?si=028fa4ff05c34e7e"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
