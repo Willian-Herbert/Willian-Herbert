@@ -1,4 +1,4 @@
-## Eae, eu sou o Willian Herbert👌
+## Olá, eu sou o Willian Herbert👌
 
 <div>
 <a href="https://github.com/Willian-Herbert">
@@ -11,7 +11,7 @@
   <p>
     Meu gosto por programação e desenvolvimento de software veio através do meu gosto por tecnologia, gosto de games desde pequeno e o contato com o computador me fez escolher esse caminho.
     Além de games, gosto de carros e de música. <br>
-    Estou em constante busca de aprender coisas novas e aprimorar o que ja conheço.
+    Estou em constante busca de aprender coisas novas e aprimorar o que ja conheço, atualmente estou focando em HTML, CSS e JS, possuo um pouco de conhecimento de MySQL e pretendo aprofundar em breve também.
   </p>
   <br>
   <p>
